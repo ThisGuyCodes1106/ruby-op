@@ -70,7 +70,7 @@ responses.select { |person, response| response == 'yes'}
 #=> {"Sharon"=>"yes", "Arun"=>"yes"}
 
 
-###################### SELECT METHOD ######################
+###################### REDUCE METHOD ######################
 # reduces an array or hash down to a single object.
 my_numbers = [5, 6, 7, 8]
 
